@@ -1,8 +1,6 @@
 <h1>README</h1>
 
 - 기술?블로그 - https://baseballdata.tistory.com/
-- MLB 경기별 투구수/연투 확인 대시보드 - https://pitchesbygame.streamlit.app/
-- MLB 경기별 투구정보 대시보드 - https://mlbpitchdailym.streamlit.app/
 
 
 [Personal History]
@@ -25,6 +23,8 @@
 [Project]
 
 Baseball
+
+- MLB 3D Pitch/ABS 구현
 - K-Means Clustering을 활용한 수비 위치 추천
 - 선형회귀분석을 활용한 선수별 평균 타구속도 예측
 - RandomForest를 활용한 구장별 홈런 여부 판단 모델 개발
