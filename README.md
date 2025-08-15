@@ -15,7 +15,7 @@
 
 [Competency]
 - 데이터 수집 장비 운용 (Trackman B1, Rapsodo, Blast, Edgertronic)
-- 데이터 마이닝 / 분석 (Python, R, MSSQL)
+- 데이터 시각화 / 분석 (Python, R, MSSQL)
 - 빅데이터분석기사
 - SQLD
 
